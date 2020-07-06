@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mxKLZW0mX+iBmIhnklFDaLCJB1zbuN5t5h9buUoZMF4iVbuiIXEIhiuMNV/EgxnDxNUmJeHylADcWegQboMbBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rayre\\source\\repos\\NootScript\\NootScript.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rayre\\.nuget\\packages\\fsharp.core\\4.7.1\\fsharp.core.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
